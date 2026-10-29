@@ -1,0 +1,6 @@
+{
+  "name": "Peako’s Plumbing Heating & Bathrooms",
+  "description": "Professional plumbing, heating and bathroom renovation services across Staffordshire and Cheshire, UK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
